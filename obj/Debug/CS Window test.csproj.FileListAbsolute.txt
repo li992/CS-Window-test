@@ -1,0 +1,11 @@
+c:\users\qli\box sync\documents\visual studio 2012\Projects\CS Window test\bin\Debug\CS Window test.exe.config
+c:\users\qli\box sync\documents\visual studio 2012\Projects\CS Window test\obj\Debug\CS Window test.csprojResolveAssemblyReference.cache
+c:\users\qli\box sync\documents\visual studio 2012\Projects\CS Window test\obj\Debug\CS_Window_test.WindowForm.resources
+c:\users\qli\box sync\documents\visual studio 2012\Projects\CS Window test\obj\Debug\CS_Window_test.LoginForm.resources
+c:\users\qli\box sync\documents\visual studio 2012\Projects\CS Window test\obj\Debug\CS_Window_test.Properties.Resources.resources
+c:\users\qli\box sync\documents\visual studio 2012\Projects\CS Window test\obj\Debug\CS_Window_test.RegisterForm.resources
+c:\users\qli\box sync\documents\visual studio 2012\Projects\CS Window test\obj\Debug\CS Window test.csproj.GenerateResource.Cache
+c:\users\qli\box sync\documents\visual studio 2012\Projects\CS Window test\bin\Debug\CS Window test.exe
+c:\users\qli\box sync\documents\visual studio 2012\Projects\CS Window test\bin\Debug\CS Window test.pdb
+c:\users\qli\box sync\documents\visual studio 2012\Projects\CS Window test\obj\Debug\CS Window test.exe
+c:\users\qli\box sync\documents\visual studio 2012\Projects\CS Window test\obj\Debug\CS Window test.pdb
