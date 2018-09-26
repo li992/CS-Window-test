@@ -10,3 +10,5 @@ c:\users\qli\box sync\documents\visual studio 2012\Projects\CS Window test\bin\D
 c:\users\qli\box sync\documents\visual studio 2012\Projects\CS Window test\obj\Debug\CS Window test.exe
 c:\users\qli\box sync\documents\visual studio 2012\Projects\CS Window test\obj\Debug\CS Window test.pdb
 C:\Users\QLI\Box Sync\Documents\Visual Studio 2012\Projects\CS Window test\obj\Debug\CS_Window_test.FrontEnd.resources
+C:\Users\QLI\Box Sync\Documents\Visual Studio 2012\Projects\CS Window test\bin\Debug\EntityFramework.dll
+C:\Users\QLI\Box Sync\Documents\Visual Studio 2012\Projects\CS Window test\bin\Debug\EntityFramework.xml

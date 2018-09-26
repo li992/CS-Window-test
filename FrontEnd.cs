@@ -23,7 +23,7 @@ namespace CS_Window_test
             string userID = LoginID.Text;
             string userPWD = LoginPWD.Text;
 
-            string connectionString = @"Data Source = Regwcorpdb02v; Initial Catalog = IDW; User ID = "+userID+";Password="+userPWD+";";
+            string connectionString = @"Data Source = Regwcorpdb02v; Initial Catalog = IDW;Integrated Security=True;";
 
             /*
             SqlConnection conn = new SqlConnection("user id=" + userID + ";" +
@@ -47,7 +47,11 @@ namespace CS_Window_test
                 cnn.Open();
                 if (cnn.State.Equals("Open"))
                 {
-                    DataReturn.Text = "Connected";
+                    MessageBox.Show("Connected", "Connection Succeed", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+                }
+                else
+                {
+                    MessageBox.Show("connection error", "Connection error", MessageBoxButtons.OK, MessageBoxIcon.Question);
                 }
 
             }
