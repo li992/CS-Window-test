@@ -50,6 +50,17 @@
     <Compile Include="BackForms.Designer.cs">
       <DependentUpon>BackForms.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrontEnd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrontEnd.Designer.cs">
+      <DependentUpon>FrontEnd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="IDWDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>IDWDataSet.xsd</DependentUpon>
+    </Compile>
     <Compile Include="LoginForm.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -67,6 +78,9 @@
     <EmbeddedResource Include="BackForms.resx">
       <DependentUpon>BackForms.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FrontEnd.resx">
+      <DependentUpon>FrontEnd.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="LoginForm.resx">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </EmbeddedResource>
@@ -82,6 +96,17 @@
     <EmbeddedResource Include="RegisterForm.resx">
       <DependentUpon>RegisterForm.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="IDWDataSet.xsc">
+      <DependentUpon>IDWDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="IDWDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>IDWDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="IDWDataSet.xss">
+      <DependentUpon>IDWDataSet.xsd</DependentUpon>
+    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

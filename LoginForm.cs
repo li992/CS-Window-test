@@ -77,6 +77,14 @@ namespace CS_Window_test
             this.Hide();
         }
 
+        private void button2_Click(object sender, EventArgs e)
+        {
+            FrontEnd registerForm = new FrontEnd();
+            registerForm.MdiParent = this.MdiParent;
+            registerForm.Show();
+            this.Hide();
+        }
+
 
     }
     //Default user information
